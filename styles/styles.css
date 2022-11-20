@@ -253,6 +253,7 @@ body {
   bottom: 0;
   left: 0;
   margin: auto;
+  fill: #2D3440;
 }
 
 /* === Index page === */
@@ -411,11 +412,6 @@ body {
   width: 328px;
   margin: 0;
   margin-bottom: 28px;
-}
-
-.gift-button:hover {
-  background-color: #FCFCFC4A;
-  box-shadow: 0 0 0 4px #FCFCFC;
 }
 
 
